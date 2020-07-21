@@ -13,6 +13,7 @@ import {
   EuiPageHeaderSection,
   EuiText,
   EuiTitle,
+  EuiMark,
 } from '@elastic/eui';
 
 export default () => (
@@ -67,6 +68,9 @@ export default () => (
             </p>
             <p>
               <EuiCode>yarn deploy</EuiCode>
+            </p>
+            <p>
+              <EuiMark>I am highlighted with emotion-js!</EuiMark>
             </p>
             <MyComponent />
           </EuiText>
