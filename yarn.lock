@@ -1215,9 +1215,9 @@
   resolved "https://registry.yarnpkg.com/@elastic/eslint-config-kibana/-/eslint-config-kibana-0.15.0.tgz#a552793497cdfc1829c2f9b7cd7018eb008f1606"
   integrity sha1-pVJ5NJfN/Bgpwvm3zXAY6wCPFgY=
 
-"@elastic/eui@file:../eui/elastic-eui-27.1.0.tgz":
+"@elastic/eui@../elastic-eui-27.1.0.tgz":
   version "27.1.0"
-  resolved "file:../eui/elastic-eui-27.1.0.tgz#c76f25510384c58ef85f3c3358982682486e31ea"
+  resolved "../elastic-eui-27.1.0.tgz#31b23e74a76c81fb7027cafd2eb36b64d7146161"
   dependencies:
     "@types/chroma-js" "^2.0.0"
     "@types/lodash" "^4.14.116"
