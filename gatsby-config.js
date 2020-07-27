@@ -18,6 +18,7 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     'gatsby-plugin-sass',
+    'gatsby-plugin-emotion',
     'gatsby-plugin-typescript',
     {
       resolve: 'gatsby-plugin-manifest',

@@ -1,5 +1,6 @@
 import React from 'react';
 import MyComponent from '../components/my_component';
+import Fancy from '../components/fancy';
 import {
   EuiButton,
   EuiCode,
@@ -11,6 +12,7 @@ import {
   EuiPageContentHeaderSection,
   EuiPageHeader,
   EuiPageHeaderSection,
+  EuiSpacer,
   EuiText,
   EuiTitle,
   EuiMark,
@@ -72,6 +74,8 @@ export default () => (
             <p>
               <EuiMark>I am highlighted with emotion-js!</EuiMark>
             </p>
+            <Fancy />
+            <EuiSpacer />
             <MyComponent />
           </EuiText>
         </EuiPageContentBody>

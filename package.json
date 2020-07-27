@@ -17,6 +17,7 @@
     "eslint-plugin-json": "^1.4.0",
     "gatsby": "^2.19.10",
     "gatsby-image": "^2.1.0",
+    "gatsby-plugin-emotion": "^4.3.10",
     "gatsby-plugin-manifest": "^2.2.40",
     "gatsby-plugin-offline": "^2.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
